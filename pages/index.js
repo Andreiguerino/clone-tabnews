@@ -1,9 +1,4 @@
-function Home() {
-  return <h1> o andrei te ama patricia </h1>;
+function home() {
+    return <h1> patracia amo muito voce
 }
-
-function teste() {
-  console.log('teste');
-}
-
-export default Home;
+    export default home;
